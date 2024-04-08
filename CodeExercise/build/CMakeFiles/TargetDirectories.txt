@@ -1,0 +1,4 @@
+/Users/huxun/Desktop/l/CodeExercise/build/CMakeFiles/Exercise.dir
+/Users/huxun/Desktop/l/CodeExercise/build/CMakeFiles/test.dir
+/Users/huxun/Desktop/l/CodeExercise/build/CMakeFiles/edit_cache.dir
+/Users/huxun/Desktop/l/CodeExercise/build/CMakeFiles/rebuild_cache.dir

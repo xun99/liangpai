@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.10)
+project(CodeExercise)
+
+set(CMAKE_CXX_STANDARD 17)
+add_compile_options("-g")
+enable_testing()
+# set(CMAKE_VERBOSE_MAKEFILE on)
+
+add_executable(Exercise main.cpp CodeExercise.cpp)
+if(EXISTS runtest.cmake)
+    include(runtest.cmake)
+endif()
+if(EXISTS runtest.cmake)
+    include(runtest.cmake)
+endif()
